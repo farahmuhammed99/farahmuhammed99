@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @farahmuhammed99
-- 👀 I’m interested in embedded systems 
-- 🌱 I’m currently learning C language and embedded C
+  
 
 
 <!---
